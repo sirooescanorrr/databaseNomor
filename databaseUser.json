@@ -5,5 +5,9 @@
       "password": "pp",
       "nomor": "628288376733"
     }
-  ]
+  ],
+  "allowed_numbers": [
+    "262728289292"
+  ],
+  "status": "on"
 }
