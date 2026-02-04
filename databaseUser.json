@@ -6,6 +6,8 @@
       "nomor": "628288376733"
     }
   ],
-  "allowed_numbers": [],
+  "allowed_numbers": [
+    "6282190702217"
+  ],
   "status": "on"
 }
