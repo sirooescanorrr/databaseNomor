@@ -1,15 +1,7 @@
 {
-  "dbnya": [
-    {
-      "username": "linux",
-      "password": "pp",
-      "nomor": "628288376733"
-    }
+  "tokens": [
+    "8479666744:AAHaAzM5g1IDmvlNf75i16-XEcORgePJpfA"
   ],
-  "allowed_numbers": [
-    "6285864702851",
-    "601161359148",
-    "60193490260"
-  ],
-  "status": "off"
+  "status": "active",
+  "lastUpdate": "2024-01-01T00:00:00.000Z"
 }
